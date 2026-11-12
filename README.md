@@ -11,15 +11,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anassee15&theme=dracula" height="170" alt="Top languages by commit" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anassee15&theme=dracula" height="170" alt="GitHub streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anassee15&theme=dracula" height="170" alt="Top languages by repo" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anassee15&theme=dracula" alt="Contribution graph" />
-</div>
-
 <br/>
 
 <div align="center">
